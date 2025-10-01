@@ -3,6 +3,7 @@ CanYouSee
 
 **Author**: Mubarak Mikail
 **Tags**: `Easy` `Forensics` `picoCTF 2024` `browser_webshell_solvable`
+
 ---
 
 ### Solve Attempt

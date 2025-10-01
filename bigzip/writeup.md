@@ -3,6 +3,7 @@ Big Zip
 
 **Author**: LT 'syreal' Jones
 **Tags**: `Easy` `General Skills` `picoGym Exclusive`
+
 ---
 
 ### Solve Attempt

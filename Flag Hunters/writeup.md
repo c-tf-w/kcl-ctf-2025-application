@@ -3,6 +3,7 @@ Flag Hunters
 
 **Author**: syreal
 **Tags**: `Easy` `Reverse Engineering` `picoCTF 2025`
+
 --------
 
 ### Solve Attempt
